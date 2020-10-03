@@ -1,5 +1,5 @@
 # AprendizadoPython
- Esse repositório contém exercício e suas respectivas resoluções para iniciantes que querem aprender a linguagem Python.
+ Esse repositório contém exercícios e suas respectivas resoluções para iniciantes que querem aprender a linguagem Python.
 
  São __148__ exercícios separados em 8 pastas, cada uma numerada. É aconselhável seguir essa ordem pois os exercícios da pasta 05 requer conhecimento das pastas 01 a 04. É uma aprendizagem acumulativa, onde o que você aprende em cada exercício, vai sendo aplicado nos exercícios seguintes.
 
