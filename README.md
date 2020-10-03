@@ -7,4 +7,6 @@
 
  Caso queria acessar a lista de exercícios, e não ficar atentado de ver as resoluções já prontas, é so acessar o site da [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
 
+ Se você é totalmente novato em Python e em programação, aconselho a ir fazendo os exercícios com paciência. Tenta resolver e pesquisar o problema daquele exercício e não tente buscar tudo de Python para depois resolver os exercícios. A melhor forma de aprender é pela prática. Aprender e aperfeiçoar leva tempo. Se você quer aprender TUDO de forma rápida, vai acabar se frustando.
+
  Qualquer dúvida, pode mandar sua questão aqui no Github, na aba *Issues*. Tentarei responder o mais rápido possível.
