@@ -7,4 +7,4 @@
 
  Caso queria acessar a lista de exercícios, e não ficar atentado de ver as resoluções já prontas, é so acessar o site da [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
 
- Qualquer dúvida, pode mandar sua questão aqui no Github, na aba *Inssues*. Tentarei responder o mais rápido possível.
+ Qualquer dúvida, pode mandar sua questão aqui no Github, na aba *Issues*. Tentarei responder o mais rápido possível.
